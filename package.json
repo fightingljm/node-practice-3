@@ -11,7 +11,7 @@
   "dependencies": {
     "cheerio": "^0.17.0",
     "eventproxy": "^0.3.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "superagent": "^0.20.0"
   },
   "devDependencies": {
